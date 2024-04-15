@@ -1,2 +1,2 @@
 # Documentation
-Documentations Resources for MYSTRAN
+Documentation Resources for MYSTRAN

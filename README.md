@@ -10,7 +10,7 @@ For the MYSTRAN project, there are 4 major documents:
 
 The Quick Reference Guide is intended to be the first document the user sees and will allow one to get up speed as soon as possible.
 
-The Quick Reference Guide is created in InDesign because this is highest quality document that can be produced. However, it is not flexible with regard to modification. Because this document is relatively small, it can be managed with greater ease than the much larger User and Theory manuals. For major releases (or every so often), the InDesign document is updated and a PDF is created, which will reside both in the this repo and the main MYSTRAN repo.
+The Quick Reference Guide is created in InDesign because this is the highest quality document that can be produced. However, it is not flexible with regard to modification. Because this document is relatively small, it can be managed with greater ease than the much larger User and Theory manuals. For major releases (or every so often), the InDesign document is updated and a PDF is created, which will reside both in the this repo and the main MYSTRAN repo.
 
 Modification Process:
 This is a special document that will be modified only by specific developers.

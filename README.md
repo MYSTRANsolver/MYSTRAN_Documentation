@@ -1,6 +1,6 @@
 # MYSTRAN Documentation Process and Breakdown
 
-For the MYSTRAN project, there are 4 major documents.
+For the MYSTRAN project, there are 4 major documents:
 - Quick Reference Guide
 - User Manual
 - Theory Manual
@@ -8,9 +8,9 @@ For the MYSTRAN project, there are 4 major documents.
 
 ## Quick Reference Guide
 
-The Quick Reference Guide is intened to be the first document the user see and will allow one to get up speed as soon as possible.
+The Quick Reference Guide is intended to be the first document the user see and will allow one to get up speed as soon as possible.
 
-The Quick Reference Guide is created in InDesign because this is allows for the highest quality document. However, it is not flexible to modify. Because this document is relatively small, it can be managed with greater ease than the much larger User and Theory manuals. For major releases (or every so often), the InDesign document is updated and a PDF is created.
+The Quick Reference Guide is created in InDesign because this allows for the highest quality document. However, it is not flexible to modify. Because this document is relatively small, it can be managed with greater ease than the much larger User and Theory manuals. For major releases (or every so often), the InDesign document is updated and a PDF is created.
 
 Modification Process:
 This is a special document that will be modified only by specific developers.
@@ -27,7 +27,7 @@ For significant changes, such as major section rewrites, it is recommended that 
 
 ## Theory Manual
 
-The Theory Manual contains detailed information about the theory and math utlized for the MYSTRAN solver.
+The Theory Manual contains detailed information about the theory and math utilized for the MYSTRAN solver.
 
 The theory manual is in MS Word (docx) because this is a good balance between design and flexibility. The Word document is then converted to a PDF, which will reside both in the this repo and the main MYSTRAN repo.
 
@@ -37,4 +37,4 @@ For significant changes, such as major section rewrites, it is recommended that 
 
 ## Release Updates
 
-The Release Updates document is done with MarkDown (MD). This document has minimal design requirements and using MD allows for ease of editing and tracking.
+The Release Updates document is done with Markdown (MD). This document has minimal design requirements and using MD allows for ease of editing and tracking.

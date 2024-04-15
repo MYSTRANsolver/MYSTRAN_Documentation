@@ -1,4 +1,4 @@
-# MYSTRAN Documentation Process and Breakdown
+# MYSTRAN Documentation Breakdown and Process
 
 For the MYSTRAN project, there are 4 major documents:
 - Quick Reference Guide

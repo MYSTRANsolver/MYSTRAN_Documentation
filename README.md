@@ -4,7 +4,7 @@ For the MYSTRAN project, there are 4 major documents:
 - Quick Reference Guide
 - User Manual
 - Theory Manual
-- Release Updates
+- Release Notes
 
 ## Quick Reference Guide
 
@@ -35,6 +35,6 @@ Modification Process:
 Any document request changes/requests can be report as a GitHub Issue. Then, for major releases (or every so often), the Word document is updated and a PDF is created. For minor changes, a variety of developers can implement the changes without oversight.
 For significant changes, such as major section rewrites, it is recommended that changes be approved by at least one other developer.
 
-## Release Updates
+## Release Notes
 
-The Release Updates document is done with Markdown (MD). This document has minimal design requirements and using MD allows for ease of editing and tracking.
+The Release Notes document is done with Markdown (MD). This document has minimal design requirements and using MD allows for ease of editing and tracking.

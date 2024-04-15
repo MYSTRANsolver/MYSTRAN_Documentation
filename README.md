@@ -8,9 +8,9 @@ For the MYSTRAN project, there are 4 major documents:
 
 ## Quick Reference Guide
 
-The Quick Reference Guide is intended to be the first document the user see and will allow one to get up speed as soon as possible.
+The Quick Reference Guide is intended to be the first document the user sees and will allow one to get up speed as soon as possible.
 
-The Quick Reference Guide is created in InDesign because this allows for the highest quality document. However, it is not flexible to modify. Because this document is relatively small, it can be managed with greater ease than the much larger User and Theory manuals. For major releases (or every so often), the InDesign document is updated and a PDF is created.
+The Quick Reference Guide is created in InDesign because this highest quality document can be produced. However, it is not used flexible with regard to modification. Because this document is relatively small, it can be managed with greater ease than the much larger User and Theory manuals. For major releases (or every so often), the InDesign document is updated and a PDF is created, which will reside both in the this repo and the main MYSTRAN repo.
 
 Modification Process:
 This is a special document that will be modified only by specific developers.
@@ -19,7 +19,7 @@ This is a special document that will be modified only by specific developers.
 
 The User Manual is the largest and most thorough document in the MYSTRAN documentation suite. It contains detailed information about the how to use the program.
 
-The user manual is in MS Word (docx) because this is a good balance between design and flexibility. The Word document is then converted to a PDF, which will reside both in the this repo and the main MYSTRAN repo.
+The user manual is in MS Word (docx) because this is a good balance between design and flexibility. The Word document can then create a PDF, which will reside both in the this repo and the main MYSTRAN repo.
 
 Modification Process:
 Any document request changes/requests can be report as a GitHub Issue. Then, for major releases (or every so often), the Word document is updated and a PDF is created. For minor changes, a variety of developers can implement the changes without oversight.
@@ -29,7 +29,7 @@ For significant changes, such as major section rewrites, it is recommended that 
 
 The Theory Manual contains detailed information about the theory and math utilized for the MYSTRAN solver.
 
-The theory manual is in MS Word (docx) because this is a good balance between design and flexibility. The Word document is then converted to a PDF, which will reside both in the this repo and the main MYSTRAN repo.
+The theory manual is in MS Word (docx) because this is a good balance between design and flexibility. The Word document can then create a PDF, which will reside both in the this repo and the main MYSTRAN repo.
 
 Modification Process:
 Any document request changes/requests can be report as a GitHub Issue. Then, for major releases (or every so often), the Word document is updated and a PDF is created. For minor changes, a variety of developers can implement the changes without oversight.

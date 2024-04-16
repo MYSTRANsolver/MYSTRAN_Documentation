@@ -1,10 +1,11 @@
 # MYSTRAN Documentation Breakdown and Process
 
-For the MYSTRAN project, there are 4 major documents:
+For the MYSTRAN project, there are 4 major documents and also an "Other" directory:
 - Quick Reference Guide
 - User Manual
 - Theory Manual
 - Release Notes
+- Other
 
 ## Quick Reference Guide
 
@@ -38,3 +39,7 @@ For significant changes, such as major section rewrites, it is recommended that 
 ## Release Notes
 
 The Release Notes document is done with Markdown (MD). This document has minimal design requirements and using MD allows for ease of editing and tracking.
+
+## Other
+
+In this folder, there are various documents that are related to MYSTRAN, but are not considered "formal" documents.

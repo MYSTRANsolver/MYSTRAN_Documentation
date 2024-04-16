@@ -1,6 +1,6 @@
 # MYSTRAN Documentation Breakdown and Process
 
-For the MYSTRAN project, there are 4 major documents and also an "Other" directory:
+For the MYSTRAN project, there are 4 major formal documents and also an "Other" directory:
 - Quick Reference Guide
 - User Manual
 - Theory Manual

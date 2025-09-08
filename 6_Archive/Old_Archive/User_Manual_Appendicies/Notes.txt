@@ -1,0 +1,1 @@
+The appendices were originally part of the user manual, but have since been split out and used for the theory manual.

@@ -2,7 +2,7 @@
 
 For the MYSTRAN project, there are 4 major formal documents and also an "Other" directory:
 - Install and Run Manual
-- Quick Reference Guide
+- User Manual
 - Theory Manual
 - Release Notes
 - Other
@@ -11,11 +11,11 @@ For the MYSTRAN project, there are 4 major formal documents and also an "Other" 
 
 Install and Run Manual
 
-## Quick Reference Guide
+## User Manual
 
-The Quick Reference Guide is the largest and most thorough document in the MYSTRAN documentation suite. It contains detailed information about the how to use the program.
+The User Manual is the largest and most thorough document in the MYSTRAN documentation suite. It contains detailed information about the how to use the program.
 
-The Quick Reference Guide is in MS Word (docx) because this is a good balance between design and flexibility. The Word document can then create a PDF, which will reside in this repo and the main MYSTRAN repo.
+The User Manual is in MS Word (docx) because this is a good balance between design and flexibility. The Word document can then create a PDF, which will reside in this repo and the main MYSTRAN repo.
 
 Modification Process:
 Any document request changes/requests can be reported as a GitHub Issue. Then, for major releases (or every so often), the Word document is updated and a PDF is created. For minor changes, a variety of developers can implement the changes without oversight.

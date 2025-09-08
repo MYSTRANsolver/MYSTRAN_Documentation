@@ -1,0 +1,8 @@
+Appendices
+----------
+A - MYSTRAN Sample Problem
+B - Equations for the reduction of the G-set to the A-set and solution for displacements and constraint forces
+C - Equations for element stress/strain recovery
+D - Craig-Bampton Model Generation
+E - Derivation of RBE3 element constraint equations
+F - Equations for the BUSH element

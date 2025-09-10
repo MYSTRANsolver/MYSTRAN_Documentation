@@ -1,15 +1,15 @@
 # MYSTRAN Documentation Breakdown and Process
 
 For the MYSTRAN project, there are 4 major formal documents and also an "Other" directory:
-- Install and Run Manual
+- Quick Setup Guide
 - User Manual
 - Theory Manual
 - Other Documents
 - Release Notes
 
-## Install and Run Manual
+## Quick Setup Guide
 
-Install and Run Manual
+The MYSTRAN program is a stand-alone executable, with no external dependencies. Because of this, it is straightforward to set up and run. However, for convenience, some additional options are presented in this guide: three options are presented. The first is the simplest and is sufficient for many users. The second and third options are more flexible.
 
 ## User Manual
 
